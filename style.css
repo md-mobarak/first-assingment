@@ -1,0 +1,118 @@
+body{
+    margin-left:50px;
+    margin-right: 50px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+#font-design{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#div1{
+    border-left:10px solid greenyellow;
+    padding: 0px;
+}
+.color-h1{
+    color: hotpink;   
+    }
+.p{font-size: 18px;
+    text-align: justify;
+}
+
+
+.size-h1{
+       font-size: 70px;
+       padding: 0px;
+    
+
+}
+#mrg{margin-top: -60px;}
+.link-buttom{
+    background-color: indianred;
+    padding: 10px 20px;
+    font-weight: 500;
+    font-size: 20px;
+    border-radius: 9px;
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+
+}
+
+}
+.half-width{
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.half-width img{
+    width: 75%;
+    margin-left: 70px;
+    margin-top: 5px;
+}
+
+.center-text{
+    text-align: center;
+    padding-top: -50px;
+
+}
+#bg-color1{
+    background-color:khaki;
+    padding: 8px;
+    border-radius: 10px;
+    margin: 5px;
+    height: 350px;
+    width: 400px;
+    text-align: justify;
+
+}
+#bg-color2{
+    background-color: lightcyan;
+     padding: 8px;
+     border-radius: 10px;
+     margin: 5px;
+     height: 350px;
+     width: 400px;
+     text-align: justify;
+}
+#bg-color3{
+    background-color: lightpink;
+    padding: 8px;
+    border-radius:10px;
+    margin: 5px;
+    height: 350px;
+    width: 400px;
+    text-align: justify;
+
+}
+.hgt-wid img{height: 200px;
+    width: 200px;
+
+}
+p{
+    font-size: 13px;
+}
+#div-bg{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.top-mrg{
+    margin-top: 150px;
+}
+
+.font-w{
+    font-weight: 500px;
+    font-size: 55px;
+}
+footer{
+    background-color: rgb(12, 1, 1);
+    border-radius: 8px;
+    margin-top: 200px;
+    color: honeydew;
+}
+#foot-color{
+    color: gold;
+}
+small{text-align: center;}
